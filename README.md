@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=5urafel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />  
-  </a>
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="55" alt="Pull Shark Achievement" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="55" alt="YOLO Achievement" />
 </p>
 
 ---
