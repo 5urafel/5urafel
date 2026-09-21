@@ -63,11 +63,11 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5urafel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="5urafel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5urafel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5urafel&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5urafel&theme=radical" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
